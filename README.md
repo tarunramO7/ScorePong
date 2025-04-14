@@ -34,3 +34,5 @@ The ultimate DIY digital scorer for your ping pong battles! Using a Raspberry Pi
 [**main.py**](https://github.com/tarunramO7/ScorePong/blob/1ef627510bfd0b57d2d385fbad2e3f721fdcef0d/main.py)
 
 # Video
+[![Watch the video Here](https://img.youtube.com/vi/aoy3DgQ1_QM/maxresdefault.jpg)](https://youtu.be/aoy3DgQ1_QM)
+<small>*click image to [open video](https://youtu.be/aoy3DgQ1_QM)*</small>
