@@ -36,3 +36,6 @@ The ultimate DIY digital scorer for your ping pong battles! Using a Raspberry Pi
 # Video
 [![Watch the video Here](https://img.youtube.com/vi/aoy3DgQ1_QM/maxresdefault.jpg)](https://youtu.be/aoy3DgQ1_QM)
 <small>*click image to [open video](https://youtu.be/aoy3DgQ1_QM)*</small>
+
+# Get Thonny Here
+[**Thonny**](https://github.com/thonny/thonny)
